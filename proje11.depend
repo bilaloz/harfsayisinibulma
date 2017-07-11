@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495721542 source:c:\users\windows10\codeblock\proje11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
